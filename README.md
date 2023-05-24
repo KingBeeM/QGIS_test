@@ -39,3 +39,7 @@
     * 투영 좌표계 : 곡면을 표면으로 변환하는 과정에서 생기는 거리, 방향, 면적의 왜곡이 발생
   + VCS(Vertical Coordinate Systems)
     * 해양과학, 해수면 등과 관련
+
+
+## jupyter lab
+- 가상 환경에서 jupyter 를 사용 할 때 사용하는 것
