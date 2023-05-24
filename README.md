@@ -43,3 +43,4 @@
 
 ## jupyter lab
 - 가상 환경에서 jupyter 를 사용 할 때 사용하는 것
+- google colab 은 딥러닝 용
